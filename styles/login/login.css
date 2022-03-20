@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn-primary-2 {
+    margin: 1rem;
+}
+
+.btn-secondary-2 {
+    margin: 1rem;
+}
+
+.card-link {
+    text-decoration: none;
+    color: black;
+    padding: 0.5rem 0rem;
+}
+
+.active {
+    border-bottom: 2px solid black;
+}
+
+.head-link {
+    color: black;
+    text-decoration: none;
+}
